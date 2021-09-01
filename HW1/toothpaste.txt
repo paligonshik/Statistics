@@ -1,0 +1,449 @@
+Response ID	Frequency of Teeth Cleaning	Single Status
+19	Every six months	Not Single
+22	Less than every other year	Not Single
+23	Less than every other year	Not Single
+26	Every other year	Not Single
+28	Every year	Not Single
+29	Every six months	Not Single
+30	Every year	Single
+31	Every six months	Not Single
+34	Every six months	Not Single
+37	Less than every other year	Not Single
+38	Every six months	Single
+39	Every six months	Single
+42	Every year	Not Single
+43	Every six months	Not Single
+47	Every six months	Single
+51	Less than every other year	Single
+53	Less than every other year	Not Single
+55	Every year	Not Single
+59	Every six months	Not Single
+60	Every six months	Not Single
+62	Every six months	Not Single
+63	Every year	Not Single
+64	Every year	Not Single
+65	Every other year	Not Single
+69	Every six months	Not Single
+70	Every six months	Not Single
+71	Every year	Not Single
+74	Every year	Single
+75	Every year	Single
+76	Every six months	Single
+78	Every other year	Not Single
+83	Every six months	Not Single
+84	Every other year	Single
+85	Every six months	Single
+89	Every year	Not Single
+90	Less than every other year	Not Single
+91	Less than every other year	Single
+92	Every year	Not Single
+93	Less than every other year	Not Single
+94	Less than every other year	Not Single
+95	Every six months	Not Single
+96	Every six months	Not Single
+97	Less than every other year	Not Single
+98	Less than every other year	Not Single
+100	Less than every other year	Single
+101	Every six months	Not Single
+106	Every six months	Single
+108	Every six months	Not Single
+110	Every year	Not Single
+112	Every six months	Not Single
+113	Every six months	Single
+116	Every six months	Not Single
+117	Less than every other year	Not Single
+118	Every six months	Single
+121	Every other year	Not Single
+122	Every six months	Not Single
+124	Every six months	Not Single
+126	Every other year	Single
+132	Every six months	Not Single
+135	Every six months	Single
+137	Every six months	Not Single
+138	Every six months	Not Single
+141	Less than every other year	Not Single
+142	Every year	Single
+145	Every six months	Not Single
+148	Every year	Not Single
+152	Every year	Not Single
+153	Every six months	Single
+155	Less than every other year	Not Single
+156	Less than every other year	Not Single
+164	Every six months	Not Single
+169	Every other year	Not Single
+172	Less than every other year	Not Single
+173	Every other year	Single
+174	Every year	Single
+177	Every six months	Single
+180	Every year	Single
+181	Less than every other year	Single
+182	Every six months	Not Single
+183	Every six months	Single
+185	Every six months	Single
+187	Every year	Not Single
+189	Every six months	Not Single
+190	Every year	Single
+191	Every six months	Not Single
+193	Every other year	Single
+195	Less than every other year	Single
+196	Every other year	Single
+197	Every year	Single
+199	Every year	Single
+200	Less than every other year	Not Single
+201	Every year	Not Single
+202	Less than every other year	Not Single
+210	Every year	Not Single
+211	Every six months	Not Single
+212	Every six months	Not Single
+213	Every six months	Not Single
+214	Every six months	Not Single
+215	Every year	Not Single
+219	Every six months	Not Single
+221	Every other year	Single
+223	Every other year	Single
+224	Less than every other year	Single
+225	Every six months	Not Single
+226	Every six months	Not Single
+228	Less than every other year	Not Single
+229	Every six months	Not Single
+233	Every six months	Single
+235	Every six months	Not Single
+236	Every six months	Not Single
+237	Every six months	Not Single
+241	Every year	Single
+242	Every year	Not Single
+243	Less than every other year	Not Single
+246	Every other year	Not Single
+247	Every six months	Not Single
+249	Every year	Not Single
+251	Every year	Single
+256	Every six months	Not Single
+257	Less than every other year	Not Single
+258	Less than every other year	Not Single
+260	Less than every other year	Single
+261	Every six months	Not Single
+262	Every year	Single
+263	Every year	Not Single
+266	Every year	Single
+268	Less than every other year	Not Single
+270	Every six months	Not Single
+271	Every six months	Not Single
+273	Every six months	Not Single
+279	Every year	Not Single
+284	Every six months	Not Single
+285	Every six months	Not Single
+288	Every year	Not Single
+291	Every six months	Not Single
+293	Every year	Not Single
+295	Every six months	Single
+303	Every other year	Not Single
+304	Every six months	Not Single
+305	Every year	Single
+308	Every six months	Not Single
+309	Every six months	Single
+310	Every other year	Single
+313	Every six months	Not Single
+314	Every six months	Not Single
+316	Every year	Single
+317	Less than every other year	Single
+318	Every six months	Not Single
+336	Less than every other year	Not Single
+337	Every six months	Single
+338	Every six months	Not Single
+341	Every six months	Not Single
+343	Every six months	Not Single
+344	Every six months	Single
+345	Every year	Not Single
+346	Every six months	Not Single
+347	Every year	Not Single
+348	Every six months	Not Single
+349	Every six months	Single
+350	Every year	Not Single
+353	Every year	Single
+354	Every six months	Not Single
+355	Every year	Not Single
+357	Every year	Single
+360	Every six months	Not Single
+361	Every six months	Single
+362	Every other year	Single
+363	Every six months	Not Single
+364	Every six months	Single
+366	Every year	Single
+367	Every six months	Single
+368	Every year	Single
+369	Every other year	Single
+372	Every six months	Not Single
+373	Every year	Single
+374	Every year	Single
+376	Less than every other year	Not Single
+384	Every six months	Not Single
+385	Every six months	Not Single
+388	Every year	Single
+391	Every six months	Single
+392	Every six months	Not Single
+393	Every six months	Not Single
+397	Every six months	Not Single
+398	Every six months	Not Single
+400	Every six months	Not Single
+402	Every six months	Single
+406	Every six months	Not Single
+407	Every six months	Not Single
+408	Every year	Not Single
+410	Every six months	Single
+411	Less than every other year	Single
+414	Every year	Not Single
+421	Every year	Single
+423	Every six months	Not Single
+424	Every six months	Not Single
+425	Every six months	Single
+426	Every six months	Not Single
+432	Every six months	Not Single
+434	Every year	Not Single
+438	Every six months	Single
+439	Every year	Not Single
+440	Every six months	Single
+442	Every six months	Not Single
+443	Less than every other year	Single
+445	Every other year	Not Single
+448	Every six months	Single
+450	Every six months	Not Single
+452	Every six months	Not Single
+457	Every year	Single
+459	Every six months	Not Single
+462	Every six months	Not Single
+463	Less than every other year	Single
+466	Every six months	Not Single
+472	Every six months	Single
+475	Every six months	Not Single
+482	Less than every other year	Single
+483	Every six months	Not Single
+484	Less than every other year	Single
+487	Every year	Not Single
+488	Every six months	Not Single
+490	Every other year	Single
+491	Every six months	Single
+492	Less than every other year	Single
+493	Every six months	Not Single
+499	Every other year	Single
+501	Every year	Not Single
+502	Less than every other year	Single
+503	Every six months	Not Single
+504	Every six months	Not Single
+506	Every six months	Single
+508	Every six months	Single
+515	Less than every other year	Not Single
+516	Every year	Not Single
+518	Every six months	Single
+519	Every other year	Single
+520	Every year	Not Single
+525	Every six months	Not Single
+527	Every other year	Single
+529	Every six months	Single
+530	Every six months	Not Single
+531	Every other year	Single
+532	Every six months	Not Single
+536	Every six months	Not Single
+539	Every six months	Single
+541	Every six months	Single
+542	Less than every other year	Single
+543	Every year	Not Single
+544	Less than every other year	Single
+545	Every year	Single
+548	Every six months	Not Single
+553	Every six months	Not Single
+556	Every six months	Not Single
+558	Every six months	Not Single
+559	Every other year	Single
+560	Every year	Not Single
+561	Every six months	Not Single
+562	Less than every other year	Single
+566	Every six months	Single
+567	Every six months	Not Single
+571	Every six months	Single
+572	Every six months	Single
+574	Every six months	Not Single
+575	Every six months	Single
+578	Every six months	Not Single
+579	Less than every other year	Single
+580	Every other year	Not Single
+584	Every six months	Single
+585	Every six months	Not Single
+588	Every other year	Not Single
+589	Every year	Single
+590	Every six months	Single
+592	Every six months	Single
+594	Every other year	Single
+596	Every year	Not Single
+598	Every year	Not Single
+599	Less than every other year	Single
+603	Every year	Not Single
+605	Less than every other year	Not Single
+607	Every six months	Not Single
+612	Every six months	Single
+616	Every six months	Not Single
+625	Every other year	Not Single
+626	Every six months	Not Single
+627	Every other year	Single
+628	Every year	Not Single
+631	Every six months	Single
+633	Every six months	Not Single
+635	Less than every other year	Not Single
+637	Every six months	Not Single
+639	Less than every other year	Not Single
+645	Less than every other year	Not Single
+646	Every six months	Not Single
+649	Every other year	Not Single
+658	Less than every other year	Not Single
+660	Every six months	Not Single
+661	Every six months	Single
+663	Every six months	Not Single
+664	Every year	Not Single
+667	Every year	Not Single
+668	Every six months	Single
+672	Every six months	Not Single
+673	Every year	Not Single
+675	Every six months	Not Single
+677	Less than every other year	Single
+678	Every six months	Not Single
+679	Every year	Single
+683	Every six months	Not Single
+684	Less than every other year	Not Single
+691	Every other year	Single
+693	Every year	Not Single
+694	Every six months	Not Single
+695	Every other year	Not Single
+696	Every six months	Not Single
+697	Every six months	Not Single
+698	Every six months	Not Single
+699	Every six months	Not Single
+700	Every year	Not Single
+705	Less than every other year	Single
+708	Every six months	Not Single
+710	Every six months	Not Single
+715	Every six months	Not Single
+716	Every other year	Not Single
+717	Every six months	Not Single
+718	Every six months	Not Single
+721	Every six months	Single
+722	Every six months	Single
+728	Every six months	Single
+730	Every other year	Not Single
+734	Every other year	Single
+735	Every six months	Not Single
+742	Every other year	Not Single
+746	Every six months	Single
+747	Every other year	Not Single
+765	Every other year	Single
+767	Every six months	Single
+773	Less than every other year	Not Single
+775	Every other year	Single
+781	Every six months	Single
+790	Every six months	Not Single
+793	Every six months	Not Single
+795	Every year	Single
+796	Every six months	Not Single
+800	Every six months	Single
+801	Every six months	Not Single
+826	Every year	Single
+835	Every six months	Single
+836	Every six months	Single
+842	Every year	Single
+853	Every year	Single
+866	Every other year	Not Single
+875	Every six months	Single
+877	Less than every other year	Single
+878	Every six months	Not Single
+896	Every six months	Not Single
+914	Every year	Single
+920	Every year	Not Single
+925	Less than every other year	Single
+927	Every six months	Single
+932	Less than every other year	Single
+934	Every six months	Single
+960	Every year	Not Single
+965	Every six months	Single
+971	Every six months	Not Single
+976	Every six months	Not Single
+980	Every year	Single
+981	Every six months	Single
+984	Every six months	Not Single
+995	Every six months	Single
+997	Every six months	Single
+999	Less than every other year	Not Single
+1000	Every six months	Not Single
+1002	Every six months	Single
+1003	Less than every other year	Not Single
+1007	Every six months	Not Single
+1008	Every six months	Not Single
+1014	Less than every other year	Not Single
+1018	Every six months	Single
+1020	Every six months	Not Single
+1021	Every six months	Not Single
+1022	Every six months	Not Single
+1025	Every six months	Not Single
+1027	Every year	Not Single
+1034	Every six months	Not Single
+1035	Less than every other year	Single
+1036	Every year	Single
+1037	Every six months	Not Single
+1040	Less than every other year	Not Single
+1049	Less than every other year	Not Single
+1051	Every six months	Single
+1054	Every year	Not Single
+1056	Every six months	Not Single
+1060	Every year	Single
+1063	Every six months	Not Single
+1076	Every six months	Single
+1077	Every year	Single
+1081	Less than every other year	Not Single
+1083	Less than every other year	Single
+1085	Less than every other year	Not Single
+1087	Less than every other year	Not Single
+1097	Every six months	Not Single
+1098	Less than every other year	Not Single
+1112	Every other year	Not Single
+1116	Every six months	Not Single
+1133	Every year	Single
+1139	Every six months	Not Single
+1153	Every other year	Not Single
+1168	Every year	Not Single
+1178	Every other year	Single
+1184	Every other year	Single
+1189	Every six months	Single
+1222	Every year	Single
+1224	Every six months	Not Single
+1254	Every year	Single
+1279	Every year	Single
+1282	Less than every other year	Not Single
+1290	Every six months	Single
+1291	Every six months	Single
+1297	Every six months	Single
+1306	Every six months	Single
+1331	Every year	Not Single
+1345	Every six months	Single
+1354	Every year	Single
+1356	Every year	Single
+1359	Every six months	Single
+1367	Less than every other year	Not Single
+1370	Every year	Not Single
+1371	Every six months	Single
+1372	Every six months	Not Single
+1377	Every six months	Not Single
+1381	Every year	Not Single
+1405	Every six months	Single
+1413	Every year	Not Single
+1425	Less than every other year	Not Single
+1443	Every six months	Not Single
+1447	Every six months	Single
+1449	Every other year	Not Single
+1450	Every year	Single
+1464	Every six months	Single
+1475	Every year	Not Single
+1485	Every year	Not Single
+1500	Every six months	Not Single
+1504	Less than every other year	Single
+1507	Every year	Single
+1520	Every year	Not Single
+1522	Every six months	Not Single
+1526	Less than every other year	Single
+1550	Every six months	Single
